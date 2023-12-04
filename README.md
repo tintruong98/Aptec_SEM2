@@ -58,4 +58,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
+Buid a Web Application with Laravel 
+Project name: Hana Petshop
+
+
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
